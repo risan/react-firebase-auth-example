@@ -5,7 +5,7 @@
 
 React application example using [React Router](https://reacttraining.com/react-router/) and [Firebase Authentication](https://firebase.google.com/docs/auth/).
 
-Checkout the [demo here](https://risan.io/react-firebase-auth-example).
+Checkout the [demo here](https://risan.io/react-firebase-auth-example/).
 
 ![React Firebase Auth Example](https://media.giphy.com/media/3E0N2p3E139I38ojDy/source.gif)
 
